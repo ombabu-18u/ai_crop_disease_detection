@@ -1,4 +1,3 @@
-# Neura_Hack
 # 🌱 Crop Disease Detection
 
 **A farmer-centric AI solution to identify crop diseases through image analysis**  
